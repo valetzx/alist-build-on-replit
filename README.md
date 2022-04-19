@@ -8,6 +8,9 @@ https://alist-doc.nn.ci/docs/install/source-code
 </a>
 
 在教育版中使用：
+
 将以下代码粘贴至Replit Shell
+
 `git clone https://github.com/valetzx/alist-build-on-replit && mv -b alist-build-on-replit/* ./ && mv -b alist-build-on-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-build-on-replit`
-点击绿色 ▶ Run
+
+后点击绿色 ▶ Run
