@@ -13,4 +13,4 @@ https://alist-doc.nn.ci/docs/install/source-code
 
 `git clone https://github.com/valetzx/alist-build-on-replit && mv -b alist-build-on-replit/* ./ && mv -b alist-build-on-replit/.[^.]* ./ && rm -rf *~ && rm -rf alist-build-on-replit`
 
-当加载完nix env后点击绿色 ▶ Run
+当加载完 Loading Nix environment... 后点击绿色 ▶ Run
