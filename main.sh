@@ -35,5 +35,5 @@ chmod +x build
 ./build 
 #整个流程默认就是这样
 #启动后控制台输出信息后,用 Ctrl+C 停止运行 去修改静态资源路径
-#可以将根目录 `data/config.json` 中资源文件assets改成 `"assets": "/",`
+#可以将根目录 data/config.json 中资源文件assets改成 "assets": "/",
 #更多内容请访问文档：https://alist-doc.nn.ci
