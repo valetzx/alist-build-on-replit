@@ -3,11 +3,13 @@
 自动在Replit构建Alist
 https://alist-doc.nn.ci/docs/install/source-code
 
+个人版：
+
 <a href="https://repl.it/github/valetzx/alist-build-on-replit">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/alist-build-on-replit" style="height: 40px; width: 190px;" />
 </a>
 
-在教育版中使用：
+教育版：
 
 将以下代码粘贴至Replit Shell后回车
 
