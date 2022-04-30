@@ -16,7 +16,7 @@ cp run.sh alist/
 #转到alist-web文件夹
 cd alist-web 
 #构建alist-web前端
-npm install && npm run build
+yarn install && yarn build
 #转到上级目录
 cd .. 
 #复制前端dist文件至/alist/public
