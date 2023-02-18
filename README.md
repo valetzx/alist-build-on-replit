@@ -1,3 +1,5 @@
+# 20230218 该仓库已废，Replit将封禁所有存在 alist 程序的空间！！！
+
 # Alist-build-on-Replit
 
 自动在Replit构建Alist
